@@ -26,8 +26,8 @@ export const config = {
     // }]
     USERS: [
       {name: '曹', id: "owbQm6ujPJgBeQWeIm_KFbBuUQNo"},
-     {name: '悦', id: "owbQm6hYOh4IbXAv3cIk9zULdlOY"}, 
-     // {name: '老婆2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
+      {name: '悦', id: "owbQm6hYOh4IbXAv3cIk9zULdlOY"}, 
+      {name: '龙', id: "owbQm6ujPJgBeQWeIm_KFbBuUQNo"}, 
      // {name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
@@ -44,7 +44,7 @@ export const config = {
     // 所在省份
     PROVINCE: "山东",
     // 所在城市
-    CITY: "淄博",
+    CITY: "莱西",
 
     /** 重要节日相关 */
 
@@ -53,7 +53,7 @@ export const config = {
     // 生日时，name填写想要展示的名字，你可以填“美丽可爱亲亲老婆”
     // 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
     FESTIVALS: [
-      {"type": "生日", "name": "宝宝悦", "year": "2004", "date": "04-24"},
+      {"type": "生日", "name": "宝宝悦", "year": "2003", "date": "04-24"},
       //{"type": "节日", "name": "", "year": "2020", "date": "01-04"},
       //{"type": "生日", "name": "李四", "year": "1989", "date": "08-29"},
       {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "07-28"},
