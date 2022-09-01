@@ -25,7 +25,7 @@ export const config = {
     //   id: "wxafasdasdd-zxfvsdfd"
     // }]
     USERS: [
-      {name: '曹', id: "owbQm6ujPJgBeQWeIm_KFbBuUQNo"}
+      {name: '曹', id: "owbQm6hYOh4IbXAv3cIk9zULdlOY"}
      // {name: '老婆1', id: "2hxOO6VskYv0Kuf-y你懂的,填错狗头打烂RMpuXhk"}, 
      // {name: '老婆2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
      // {name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
@@ -53,22 +53,22 @@ export const config = {
     // 生日时，name填写想要展示的名字，你可以填“美丽可爱亲亲老婆”
     // 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
     FESTIVALS: [
-      {"type": "生日", "name": "狗儿曹振", "year": "1996", "date": "01-01"},
-      {"type": "节日", "name": "狗儿cao振", "year": "2020", "date": "01-04"},
-      {"type": "生日", "name": "李四", "year": "1996", "date": "08-29"},
-      {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "08-29"},
+      {"type": "生日", "name": "宝宝悦", "year": "2004", "date": "04-24"},
+      //{"type": "节日", "name": "", "year": "2020", "date": "01-04"},
+      //{"type": "生日", "name": "李四", "year": "1989", "date": "08-29"},
+      {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "07-28"},
     ],
     // 限制重要节日的展示条目, 需要填写数字; 
     // 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
     // 如果为0, 则默认展示全部
-    FESTIVALS_LIMIT: 3,
+    FESTIVALS_LIMIT: 0,
 
     /** 日期相关 */
 
     // 在一起的日子，格式同上
-    LOVE_DATE: "2022-08-01",
+    LOVE_DATE: "2021-08-01",
     // 结婚纪念日
-    MARRY_DATE: "2022-08-20",
+    //MARRY_DATE: "2022-08-20",
 
 
     /** 每日一言 */
