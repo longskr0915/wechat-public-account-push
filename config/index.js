@@ -44,7 +44,7 @@ export const config = {
     // 所在省份
     PROVINCE: "山东",
     // 所在城市
-    CITY: "莱西",
+    CITY: "青岛",
 
     /** 重要节日相关 */
 
